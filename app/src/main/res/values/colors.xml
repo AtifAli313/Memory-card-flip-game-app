@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#5D49CB</color>
+    <color name="primary_dim">#513CBE</color>
+    <color name="primary_fixed">#8D7BFE</color>
+    <color name="primary_fixed_dim">#806EF0</color>
+    <color name="primary_container">#8D7BFE</color>
+    <color name="on_primary">#FCF7FF</color>
+    <color name="on_primary_container">#080033</color>
+
+    <color name="secondary">#0063A1</color>
+    <color name="secondary_dim">#00568E</color>
+    <color name="secondary_container">#D0E4FF</color>
+    <color name="on_secondary">#F7F9FF</color>
+
+    <color name="tertiary">#2D6957</color>
+    <color name="tertiary_container">#BFFEE6</color>
+    <color name="on_tertiary_container">#276452</color>
+
+    <color name="background">#F8F9FF</color>
+    <color name="on_background">#2C333D</color>
+    
+    <color name="surface">#F8F9FF</color>
+    <color name="on_surface">#2C333D</color>
+    <color name="on_surface_variant">#58606B</color>
+    
+    <color name="surface_container_low">#F0F4FD</color>
+    <color name="surface_container">#E9EEF8</color>
+    <color name="surface_container_high">#E3E8F4</color>
+    <color name="surface_container_highest">#DCE3F0</color>
+    <color name="surface_container_lowest">#FFFFFF</color>
+    
+    <color name="outline">#747B87</color>
+    <color name="outline_variant">#ABB2BF</color>
+
+    <!-- Gradient Background Colors -->
+    <color name="bg_gradient_start">#E0E7FF</color>
+    <color name="bg_gradient_center">#F8F9FF</color>
+    <color name="bg_gradient_end">#F3E8FF</color>
+
+    <!-- Glass transparency -->
+    <color name="glass_white">#66FFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+</resources>
